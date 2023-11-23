@@ -65,11 +65,7 @@ Reference: [Use macOS Recovery on an Intel Mac](https://support.apple.com/guide/
 
 - On a clean install of macOS, Spotlight is the easiest way to open terminal. Press Command (or Cmd) ⌘ + Space Bar. When presnted with a dialig start to type Terminal and when presented with a match press Enter.
 
-### mas
-
-- [mas cli](https://github.com/mas-cli/mas)
-
-**Installed manually until I can find a better method than Homebrew and other manual processes. I will probably use mas-cli.**
+**The Following Apps I Install manually by package or the App Store. You can install many of them by Homebrew, but it's a personal preference.**
 
 - [Signal](https://updates.signal.org/desktop/signal-desktop-mac-universal-6.35.0.dmg)
 
