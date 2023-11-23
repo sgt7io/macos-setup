@@ -1,0 +1,7 @@
+vim
+git
+curl
+wget2
+awscli
+pyenv
+tmux
