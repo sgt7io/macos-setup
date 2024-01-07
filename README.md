@@ -67,7 +67,7 @@ Reference: [Use macOS Recovery on an Intel Mac](https://support.apple.com/guide/
 
 **The Following Apps I Install manually by package or the App Store. You can install many of them by Homebrew, but it's a personal preference.**
 
-- [Signal](https://updates.signal.org/desktop/signal-desktop-mac-universal-6.35.0.dmg)
+- [Signal](https://signal.org/download/)
 
 **Chrome**
 
