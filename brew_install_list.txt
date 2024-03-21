@@ -1,4 +1,4 @@
-vim
+neovim
 git
 curl
 wget2
@@ -6,3 +6,4 @@ awscli
 pyenv
 tmux
 gh
+tree
